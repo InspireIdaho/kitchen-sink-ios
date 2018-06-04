@@ -3,13 +3,24 @@
 //  KitchenSink
 //
 //  Created by M.Sean Bonner on 2/25/18.
-//  Copyright © 2018 Bonnerventure, Inc. All rights reserved.
+//  Copyright © 2018 InspireIdaho All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class TextVC: UIViewController {
 
+    // class properties
+    
+    // instance properties
+    @IBOutlet var saveButton: UIButton!
+    
+    // IB outlets
+
+    
+    // IB actions
+   
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
